@@ -1,0 +1,76 @@
+{
+  "dataset": {
+    "total": 120,
+    "por_classe": {
+      "POSITIVO": 40,
+      "NEGATIVO": 40,
+      "NEUTRO": 40
+    }
+  },
+  "modelo_pre_treinado": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
+  "avaliacao_modelo_treinado": {
+    "tamanho_treino": 90,
+    "tamanho_teste": 30,
+    "acuracia_teste": 0.23333333333333334,
+    "relatorio_classificacao": {
+      "NEGATIVO": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 10.0
+      },
+      "NEUTRO": {
+        "precision": 0.35714285714285715,
+        "recall": 0.5,
+        "f1-score": 0.4166666666666667,
+        "support": 10.0
+      },
+      "POSITIVO": {
+        "precision": 0.18181818181818182,
+        "recall": 0.2,
+        "f1-score": 0.19047619047619047,
+        "support": 10.0
+      },
+      "accuracy": 0.23333333333333334,
+      "macro avg": {
+        "precision": 0.17965367965367965,
+        "recall": 0.2333333333333333,
+        "f1-score": 0.2023809523809524,
+        "support": 30.0
+      },
+      "weighted avg": {
+        "precision": 0.17965367965367965,
+        "recall": 0.23333333333333334,
+        "f1-score": 0.20238095238095238,
+        "support": 30.0
+      }
+    },
+    "rotulos_matriz": [
+      "NEGATIVO",
+      "NEUTRO",
+      "POSITIVO"
+    ],
+    "matriz_confusao": [
+      [
+        0,
+        5,
+        5
+      ],
+      [
+        1,
+        5,
+        4
+      ],
+      [
+        4,
+        4,
+        2
+      ]
+    ]
+  },
+  "acuracias_comparacao_18_textos": {
+    "algoritmo_manual": 0.5555555555555556,
+    "modelo_treinado": 0.6111111111111112,
+    "modelo_pre_treinado": 1.0
+  }
+}

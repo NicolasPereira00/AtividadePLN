@@ -1,0 +1,19 @@
+﻿texto,sentimento_esperado,algoritmo_manual,modelo_treinado,modelo_pre_treinado,confianca_pre_treinado
+Adorei o atendimento recebido hoje!,POSITIVO,NEUTRO,POSITIVO,POSITIVO,0.9272
+O filme foi maravilhoso e me emocionou.,POSITIVO,POSITIVO,POSITIVO,POSITIVO,0.9496
+Gostei da compra e faria outra.,POSITIVO,NEUTRO,NEGATIVO,POSITIVO,0.81
+O curso foi excelente e fácil de acompanhar.,POSITIVO,POSITIVO,POSITIVO,POSITIVO,0.9193
+O aplicativo resolveu meu problema rapidamente.,POSITIVO,NEUTRO,NEGATIVO,POSITIVO,0.798
+O hotel era confortável e silencioso.,POSITIVO,NEUTRO,NEUTRO,POSITIVO,0.6137
+Não gostei do atendimento.,NEGATIVO,NEUTRO,NEGATIVO,NEGATIVO,0.884
+O filme começou bem mas terminou de forma decepcionante.,NEGATIVO,NEGATIVO,POSITIVO,NEGATIVO,0.9335
+O produto parece bom mas quebrou no primeiro dia.,NEGATIVO,POSITIVO,NEUTRO,NEGATIVO,0.8066
+O suporte foi lento e não resolveu nada.,NEGATIVO,NEUTRO,NEGATIVO,NEGATIVO,0.8107
+O livro é chato e difícil de terminar.,NEGATIVO,NEGATIVO,NEUTRO,NEGATIVO,0.934
+Não recomendo esse restaurante.,NEGATIVO,NEUTRO,NEGATIVO,NEGATIVO,0.8864
+O produto chegou ontem.,NEUTRO,NEUTRO,NEUTRO,NEUTRO,0.7195
+A sessão começa às vinte horas.,NEUTRO,NEUTRO,NEUTRO,NEUTRO,0.8188
+O pacote contém três unidades.,NEUTRO,NEUTRO,NEUTRO,NEUTRO,0.8627
+O filme está disponível em português.,NEUTRO,NEUTRO,NEUTRO,NEUTRO,0.7831
+A reunião foi marcada para terça-feira.,NEUTRO,NEUTRO,NEGATIVO,NEUTRO,0.8181
+O pedido consta no sistema.,NEUTRO,NEUTRO,NEUTRO,NEUTRO,0.872
